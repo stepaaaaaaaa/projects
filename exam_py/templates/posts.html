@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>В дверь постучали 8 раз. Осьминог - подумал Штирлиц</p>
+</ul>
+<div class="inputblock">
+    <input type="text" class="myInput" placeholder="Добавить пост">
+    <button class="clickButton"> Добавить </button>
+  </div>
+  <ul class="textOutput"></ul>
+  Автор: {{name}} 
+    <p>В дверь постучали 64 раза. 8 Осьминогов - подумал Штирлиц</p>Автор: {{name2}} 
+    <p>В дверь постучали 40 раз. Сороконожка - подумал Штирлиц. На деле оказалось что это были 5 осьминогов</p>Автор: {{name3}} 
+    <p> В дверь постучали один раз — 0,125 осьминога! - подумал Штирлиц. </p>Автор: {{name4}} 
+    <p> В дверь постучали два раза. Стукачи! - подумал Штирлиц. Нет, мы - гендеры! - подумали стукачи.</p>Автор: {{name5}} 
+
+    <script>
+
+        first("button").addEventListener("click", function() {
+            let val = first(".myInput").value.trim();
+            if (!val) return;
+          
+            first(".textOutput").insertAdjacentHTML("beforeEnd", prepare(val));
+            first(".myInput").value = '';
+          });
+          
+          function prepare(text) {
+            return "<li>" + text.split(/\s+/).map(wrap_span).join(" ") + "</li>";
+            
+        
+            function wrap_span(word) {    
+              let color = /[!@#$&*%]/.test(word) ? "red" : word.length > 3 ? "black" : "";
+          
+              return `<span style="color: ${ color }">${ word }</span>`;
+            }
+          }
+          
+          function first(str) {
+            return document.querySelector(str);
+          }
+        
+        
+            </script>
+</body>
+</html>
