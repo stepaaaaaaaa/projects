@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="final_boss.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="mainest">
+
+        <div class="main1">
+            <div class="a1">
+                <div class="a2">8 (812) 123-45-67    |    Работаем 7 дней в неделю    |    9:00 — 18:00  </div>
+                <div class="a3"><img src="Vector.png"> Войти / Регистрация</div></div></div>
+
+
+
+
+
+        <div class="main2"><div class="b1">
+            <div class="b2">PORTEN</div>
+        </div><div class="b3">ПОНРАВИЛОСЬ</div>
+        <div class="b4">ЛИЧНЫЙ КАБИНЕТ</div>
+        <div class="b5">НАСТРОЙКИ</div>
+        <div class="b6"><img src="Vector (1).png">
+        </div><div class="b7"><img src="Vector (2).png"></div></div>
+
+        
+        <div class="main3">
+            <div class="c1"><div class="c2">
+                <br><br><br>PORTEN<br>_____________<br><br>САНКТ-ПЕТЕРБУРГ</div></div>
+
+            <div class="c3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus interdum purus, est tortor<br>
+                 pulvinar ut in. Fringilla a diam enim sed justo, sed iaculis sagittis. Tortor id eu interdum<br>
+                  nec ut iaculis. Penatibus ullamcorper ultricies morbi ipsum sem metus pharetra, mi. <br>
+                  Tortor nibh magna feugiat id nunc, dui nisl viverra.</div>
+
+        </div>
+
+
+        <div class="main4">
+            <div class="d1"><div class="d2">СЕЗОН 2020 / 21<br>________</div>
+            <div class="d3"><div class="d4">
+                <div class="d5"></div></div><div class="d4">
+                    <div class="d5"></div></div><div class="d4"><div class="d5">
+
+                    </div></div></div>
+                    <div class="d6"><div class="d7">
+                        <div class="d8">Louis XVI ATHOS<br>165 000 руб.</div>
+                        <div class="d8">Louis XVI ATHOS<br>165 000 руб.</div>
+                        <div class="d8">Louis XVI ATHOS<br>165 000 руб.</div></div></div></div>
+                
+                        <div class="d9"><div class="d10">НОВАЯ КОЛЛЕКЦИЯ<br>______<br><div class="d11">КАТАЛОГ</div></div></div>
+
+
+        </div>
+
+        
+
+
+        
+
+
+        <div class="main5">
+            <div class="f1"></div>
+            <div class="f2"><div class="f3"><div class="f4">КОЛЛЕКЦИЯ 2018</div><div class="f5">Lorem ipsum dolor sit 
+                amet, consectetur adipiscing elit. Non rutrum ornare ut mattis habitant dui arcu. Sagittis amet nunc ut 
+                neque quis nibh arcu. Vivamus vestibulum nisi et venenatis sed scelerisque magna consectetur. 
+                Amet convallis quis gravida facilisis vulputate. Faucibus facilisi habitasse ipsum interdum dictum 
+                aliquet. Velit quis ullamcorper pulvinar nulla malesuada integer. Aenean praesent viverra nulla nullam 
+                natoque volutpat curabitur auctor. Viverra viverra ullamcorper scelerisque risus dignissim egestas. Id 
+                aliquam a aliquam egestas leo orci pharetra sed diam. </div><div class="f6">ПОСМОТРЕТЬ КОЛЛЕКИЮ</div></div></div>
+
+        </div>
+
+
+        <div class="main6">
+            <div class="e1"><br><br>НОВЫЕ ПОСТУПЛЕНИЯ<br>________</div>
+            <div class="e2"><div class="e3">
+                <div class="e4">
+                    <div class="e5"></div></div>
+                    <div class="e4">
+                        <div class="e5"></div></div>
+                        <div class="e4">
+                            <div class="e5"></div></div>
+                            <div class="e4">
+                                <div class="e5"></div></div>
+            </div>
+
+            <div class="e6"><div class="e7">Louis XVI ATHOS<br>165 000 руб.  
+            </div><div class="e7">Louis XVI ATHOS<br>165 000 руб.  </div>
+            <div class="e7">Louis XVI ATHOS<br>165 000 руб.  </div><div class="e7">
+                Louis XVI ATHOS<br>165 000 руб.  </div></div>
+        </div>
+        <div class="e2"><div class="e3">
+            <div class="e4">
+                <div class="e5"></div></div>
+                <div class="e4">
+                    <div class="e5"></div></div>
+                    <div class="e4">
+                        <div class="e5"></div></div>
+                        <div class="e4">
+                            <div class="e5"></div></div>
+        </div>
+
+        <div class="e6"><div class="e7">Louis XVI ATHOS<br>165 000 руб.  
+        </div><div class="e7">Louis XVI ATHOS<br>165 000 руб.  </div>
+        <div class="e7">Louis XVI ATHOS<br>165 000 руб.  </div><div class="e7">
+            Louis XVI ATHOS<br>165 000 руб.  </div></div>
+    </div>
+        
+        </div>
+
+        <div class="main7"><div class="g1">НАШИ БРЕНДЫ<br>______</div>
+    <div class="g2">
+        <div class="g3"><div class="g4"><img src="Rectangle 2.png"></div><div class="g4">
+            <img src="Rectangle 2.png"></div><div class="g4"><img src="Rectangle 2.png">
+            </div><div class="g4"><img src="Rectangle 2.png"></div></div>
+    </div>
+    </div>
+
+
+        <div class="main8">
+            <div class="i1">
+                <div class="i5">О МАГАЗИНЕ</div>
+                <div class="i2">КАТЕГОРИИ</div>
+                <div class="i2">РАССЫЛКА</div>
+            </div>
+            <div class="i3"><div class="i4">Lorem ipsum dolor sit amet, consectetur adipiscing
+                 elit. Mi semper viverra nunc cursus tortor lectus nunc nulla nibh. Egestas amet
+                  consectetur vel vitae aliquam dictum suspendisse. Lobortis eget consequat,
+                   tellus et et sed turpis. Pretium quisque vitae, amet, porttitor odio ultricies
+                    massa pharetra leo. Et ipsum urna fames in sit mi ultrices nisi, nunc.</div>
+                    <div class="i8">
+                        <div class="i10">
+                            <div class="i12"><div class="i11">часы</div><div class="i13">браслеты</div>
+                            <div class="i14">ремни</div></div>
+                            <div class="i12"><div class="i15">ювелирные изделия</div><div class="i16">запонки</div>
+                        </div>
+                            
+                        </div>
+                    </div>
+                    <div class="i6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mi 
+                        semper viverra nunc cursus tortor lectus nunc nulla nibh.
+                        <input class="i7" type="email" placeholder="Ваша почта">
+                        <div class="i9">ПОДПИСАТЬСЯ</div>
+                    </div></div>
+
+
+        </div>
+
+
+        <div class="main9"><div class="j1"><div class="j2">© 2020 Все права защищены</div>
+        <div class="j2">© 2020 Все права защищены</div></div></div>
+
+
+
+    </div>
+</body>
+</html>
